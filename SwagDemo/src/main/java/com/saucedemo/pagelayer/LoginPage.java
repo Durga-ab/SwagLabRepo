@@ -1,5 +1,7 @@
 package com.saucedemo.pagelayer;
 
-public class LoginPage {
+public class LoginPage 
+{
+	//ho na 
 
 }
